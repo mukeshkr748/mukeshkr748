@@ -1,0 +1,7 @@
+# created github integeration for jirar 
+go to jira
+go to spaces, select your space
+go to code-tab
+connect github
+give access to the selected repositories
+you will be able to itegerate github & jira
